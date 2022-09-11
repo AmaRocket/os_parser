@@ -16,7 +16,7 @@ from datetime import datetime
 
 os.environ[
     "GOOGLE_APPLICATION_CREDENTIALS"
-] = "/home/xcloud/PycharmProjects/parser/voice-recognition-346809-01b557a42772.json"
+] = "YOUR CREDENTIALS"
 
 
 def transcribe_file(speech_file):
